@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ibrahim
-- 👀 I’m interested in software development
+
 - 📫 E-mail: ibrahimanees2002@gmail.com
 
 <!---
